@@ -25,6 +25,20 @@ font-size: 40px;
 
 
 }
+.categoria videos img {
+    opacity:0.5;
+    height:200px;
+}
+categoria videos img:hover{
+opacity:1.0;
+border:3px solid #C19A6B
+}
+
+categoria h2{
+    color:#C19A6B
+}
+
+
 
 p{
     font-size: 20px;
