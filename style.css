@@ -109,8 +109,8 @@ p {
     border: 3px solid #C19A6B;
 }
 .logo-onepiece {
-    width: 180px;   /* Altere esse número para maior ou menor conforme desejar */
-    height: auto;   /* Mantém a proporção da imagem */
+    width: 180px;   
+    height: auto;   
     display: block;
-    margin: 0 auto; /* Centraliza a imagem na página */
+    margin: 0 auto; 
 }
