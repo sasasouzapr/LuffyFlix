@@ -14,12 +14,19 @@ header {
 
 .cabecalho {
     background-color: black;
-    color: white;
-    padding: 20px;
     text-align: center;
+    padding: 20px;
     font-family: Arial, sans-serif;
     font-size: 28px;
     font-weight: bold;
+}
+
+/* Estilo para a imagem do logo no cabeçalho */
+.cabecalho img {
+    width: 300px;      /* Tamanho da imagem - ajuste conforme quiser */
+    max-width: 90%;    /* Responsivo para telas pequenas */
+    height: auto;      /* Mantém proporção da imagem */
+    display: inline-block;
 }
 
 section {
